@@ -1,0 +1,8 @@
+
+# ignore pycache files
+*.pyc
+
+# ignore env
+env/*
+
+db.sqlite3
